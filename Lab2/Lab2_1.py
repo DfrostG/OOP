@@ -7,4 +7,4 @@ if (x[0] == '0'):
     x[0] = n
 
 for i in range(len(x)):
-    print(x[i], end=' ')
+    print(x[i], end='')
